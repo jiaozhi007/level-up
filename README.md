@@ -147,7 +147,7 @@ Table of Contents
          * [最重要的事](#最重要的事)
 
 
-## 正式入门
+## [正式入门](#table-of-contents)
 
 1. 编程技巧
     - 《代码大全》
@@ -190,7 +190,7 @@ Table of Contents
     - [Git 图文教程及详解](https://www.jianshu.com/p/1b65ed31da97)
     - [超完整的 Chrome 浏览器客户端调试大全](http://www.igeekbar.com/igeekbar/post/156.htm)
 
-## 程序员修养
+## [程序员修养](#table-of-contents)
 1. 文章
     - [What are some of the most basic things every programmer should know?](https://www.quora.com/What-are-some-of-the-most-basic-things-every-programmer-should-know)
         - Bad architecture causes more problems than bad code.
@@ -310,12 +310,12 @@ Table of Contents
       - [RegexHQ](https://github.com/regexhq)。
       - [Learn regex the easy way](https://github.com/zeeshanu/learn-regex)。
 
-## 编程语言
+## [编程语言](#table-of-contents)
 
 - [Go 语言、Docker 和新技术](https://coolshell.cn/articles/18190.html)
 - [程序员的荒谬之言还是至理名言？](https://coolshell.cn/articles/4235.html)
 
-### 学习 Go 语言
+### [学习 Go 语言](#table-of-contents)
 
 C 语言太原始了，C++ 太复杂了，Go 语言是不二之选。有了 C/C++ 的功底，学习 Go 语言非常简单。
 
@@ -336,11 +336,11 @@ Go 语言最突出之处是并发编程，Unix 老牌黑客罗勃·派克（Rob 
 
 此外，还有个内容丰富的 Go 资源列表 [Awesome Go](https://github.com/avelino/awesome-go)，推荐看看。
 
-## 理论学科
+## [理论学科](#table-of-contents)
 
 进入专业的编程领域，算法、数据结构、网络模型、计算机原理等这样的计算机科学专业需要学习的理论知识是必须要学习的。
 
-### 数据结构和算法
+### [数据结构和算法](#table-of-contents)
 
 算法是比较难学习的，而且学习 " 算法 " 是需要智商的。数组、链表、哈希表、二叉树、排序算法等一些基础知识，对大多数人来说是没什么问题的。但是一旦进入到路径规划、背包问题、字符串匹配、动态规划、递归遍历等一些比较复杂的问题上，就会让很多人跟不上了，不但跟不上，而且还会非常痛苦。是的，解决算法问题的确是可以区分人类智商的一个比较好的方式，这也是为什么好些公司用算法题当面试题来找到智商比较高的程序员。
 
@@ -370,7 +370,7 @@ Go 语言最突出之处是并发编程，Unix 老牌黑客罗勃·派克（Rob 
 - **List of Algorithms** ，这个网站罗列了非常多的算法，完全可以当成一个算法字典，或是用来开阔眼界。
 - 还有一个数据结构动画图的网站 [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)。
 
-### 其它理论基础知识
+### [其它理论基础知识](#table-of-contents)
 
 下面这些书，基本上是计算机科学系的大学教材。如果你想有科班出生的理论基础，那么这些书是必读的。当然，这些理论基础知识比较枯燥，但我觉得如果你想成为专业的程序员，那么应该要找时间读一下。
 
@@ -387,7 +387,7 @@ Go 语言最突出之处是并发编程，Unix 老牌黑客罗勃·派克（Rob 
 
 我认为，虽然这些理论知识枯燥难学，而且通常学完了在工作中也并不是马上就能用上，但这些知识是必须要学好的。**这些理论知识可以说是计算机科学这门学科最精华的知识了，认真学习，理解其背后的逻辑和思维方式，会令你受益匪浅**。不管是未来学习新知识，还是解决什么疑难问题，都能在这些知识中获得灵感或者启发。
 
-## 系统知识
+## [系统知识](#table-of-contents)
 
 进入专业的编程领域，学习系统知识是非常关键的一部分。
 
@@ -435,7 +435,7 @@ Go 语言最突出之处是并发编程，Unix 老牌黑客罗勃·派克（Rob 
 - 学会使用 makefile 来编译程序（参看我的《**跟我一起写 makefile**》[一](https://blog.csdn.net/haoel/article/details/2886)、[二](https://blog.csdn.net/haoel/article/details/2887)、[三](https://blog.csdn.net/haoel/article/details/2888)、[四](https://blog.csdn.net/haoel/article/details/2889)、[五](https://blog.csdn.net/haoel/article/details/2890)、[六](https://blog.csdn.net/haoel/article/details/2891)、[七](https://blog.csdn.net/haoel/article/details/2892)、[八](https://blog.csdn.net/haoel/article/details/2893)、[九](https://blog.csdn.net/haoel/article/details/2894)、[十](https://blog.csdn.net/haoel/article/details/2895)、[十一](https://blog.csdn.net/haoel/article/details/2896)、[十二](https://blog.csdn.net/haoel/article/details/2897)、[十三](https://blog.csdn.net/haoel/article/details/2898)、[十四](https://blog.csdn.net/haoel/article/details/2899)）。
 - Socket 的进程间通信。用 C 语言写一个 1 对 1 的聊天小程序，或是一个简单的 HTTP 服务器。
 
-### C10K 问题
+### [C10K 问题](#table-of-contents)
 
 然后，当你读完《Unix 网络编程》后，千万要去读一下 “[C10K Problem](http://www.kegel.com/c10k.html) （[中文翻译版](https://www.oschina.net/translate/c10k)）”。提出这个问题的人叫丹·凯格尔（Dan Kegel），目前工作在美国 Google 公司。
 
@@ -447,7 +447,7 @@ C10K 问题本质上是操作系统处理大并发请求的问题。对于 Web �
 
 另外，现在，整个世界都在解决 C10M 问题，推荐看看 [The Secret To 10 Million Concurrent Connections -The Kernel Is The Problem, Not The Solution](http://highscalability.com/blog/2013/5/13/the-secret-to-10-million-concurrent-connections-the-kernel-i.html) 一文。
 
-### 实践项目
+### [实践项目](#table-of-contents)
 
 我们已经学习完了编程语言、理论学科和系统知识三部分内容，下面就来做几个实践项目，小试牛刀一下。实现语言可以用 C、C++ 或 Java。
 
@@ -476,7 +476,7 @@ C10K 问题本质上是操作系统处理大并发请求的问题。对于 Web �
 - 消息队列要做到不丢数据（要把消息持久化下来）。
 - 能做到性能很高。
 
-### 小结
+### [小结](#table-of-contents)
 
 到今天，我们已经学习完了专业编程方面最为重要的三部分内容：编程语言、理论学科和系统知识，我们针对这些内容做个小结。如果想看完我推荐的那些书和知识，并能理解和掌握，我估计怎么也得需要 4-5 年的时间。嗯，是的，就是一个计算机科学系科班出身的程序员需要学习的一些东西。这其中，最重要的是下面这几点。
 
@@ -504,9 +504,9 @@ C10K 问题本质上是操作系统处理大并发请求的问题。对于 Web �
 
 这些方向你要仔细选择，因为一旦选好，就要勇往直前地走下去，当然，你要回头转别的方向也没什么问题，因为你有前面的这些基础知识在身，所以，不用害怕。只是不同的方向上会有不同的经验积累，经验积累是看书看不来的，这个是转方向的成本。
 
-## 软件设计
+## [软件设计](#table-of-contents)
 
-### 编程范式
+### [编程范式](#table-of-contents)
 
 学习编程范式可以让你明白编程的本质和各种语言的编程方式。虽然很多程序员都忽略了这个事，但是其实是非常非常重要的事。因此，我推荐以下一些资料，帮助你系统化地学习和理解。
 
@@ -536,7 +536,7 @@ C10K 问题本质上是操作系统处理大并发请求的问题。对于 Web �
 
 - [斯坦福大学公开课：编程范式](http://open.163.com/special/opencourse/paradigms.html)，这是一门比较基础且很详细的课程，适合学习编程语言的初学者。它通过讲述 C、C++、并发编程、Scheme、Python 这 5 门语言，介绍了它们各自不同的编程范式。以 C 语言为例，它解释了 C 语言的基本要素，如指针、内存分配、堆、C 风格的字符串等，并解释了为什么 C 语言会在泛型编程、多态等方面有局限性。通过学习这门课程，你会对一些常用的编程范式有所了解。
 
-### 一些软件设计的相关原则
+### [一些软件设计的相关原则](#table-of-contents)
 
 - **Don’t Repeat Yourself (DRY)** ，DRY 是一个最简单的法则，也是最容易被理解的。但它也可能是最难被应用的（因为要做到这样，我们需要在泛型设计上做相当的努力，这并不是一件容易的事）。它意味着，当在两个或多个地方发现一些相似的代码的时候，我们需要把它们的共性抽象出来形成一个唯一的新方法，并且改变现有地方的代码让它们以一些合适的参数调用这个新的方法。
 
@@ -605,7 +605,7 @@ C10K 问题本质上是操作系统处理大并发请求的问题。对于 Web �
 
   有两种方法可以打破这种循环依赖关系：第一种方法是创建新的包，如果 A、B、C 形成环路依赖，那么把这些共同类抽出来放在一个新的包 D 里。这样就把 C 依赖 A 变成了 C 依赖 D 以及 A 依赖 D，从而打破了循环依赖关系。第二种方法是使用 DIP（依赖倒置原则）和 ISP（接口分隔原则）设计原则。无环依赖原则（ADP）为我们解决包之间的关系耦合问题。在设计模块时，不能有循环依赖。
 
-### 一些软件设计的读物
+### [一些软件设计的读物](#table-of-contents)
 
 - 《[领域驱动设计](https://book.douban.com/subject/26819666/)》 ，本书是领域驱动设计方面的经典之作。全书围绕着设计和开发实践，结合若干真实的项目案例，向读者阐述如何在真实的软件开发中应用领域驱动设计。书中给出了领域驱动设计的系统化方法，并将人们普遍接受的一些实践综合到一起，融入了作者的见解和经验，展现了一些可扩展的设计新实践、已验证过的技术以及便于应对复杂领域的软件项目开发的基本原则。
 - 《[UNIX 编程艺术](https://book.douban.com/subject/1467587/)》 ，这本书主要介绍了 Unix 系统领域中的设计和开发哲学、思想文化体系、原则与经验，由公认的 Unix 编程大师、开源运动领袖人物之一埃里克·雷蒙德（Eric S. Raymond）倾力多年写作而成。包括 Unix 设计者在内的多位领域专家也为本书贡献了宝贵的内容。本书内容涉及社群文化、软件开发设计与实现，覆盖面广、内容深邃，完全展现了作者极其深厚的经验积累和领域智慧。
@@ -624,7 +624,7 @@ C10K 问题本质上是操作系统处理大并发请求的问题。对于 Web �
 - [The Problem With Logging](https://blog.codinghorror.com/the-problem-with-logging/) ，一篇关于程序打日志的短文，可以让你知道一些可能以往不知道的打日志需要注意的问题。
 - [Concurrent Programming for Scalable Web Architectures](http://berb.github.io/diploma-thesis/community/index.html) ，这是一本在线的免费书，教你如何架构一个可扩展的高性能的网站。其中谈到了一些不错的设计方法和知识。
 
-### 小结
+### [小结](#table-of-contents)
 
 好了，总结一下今天分享的内容。我认为，“品位”不同，是各层次程序员之间最大的区别，这也决定了他们所做出来的软件的质量和价值。因此，我特意撰写了软件设计这一篇章，帮助那些想成长为软件工程师、设计师或架构师的程序员，提高软件设计的品位，进而实现自己的目标。
 
@@ -632,7 +632,7 @@ C10K 问题本质上是操作系统处理大并发请求的问题。对于 Web �
 
 最后，我精选并推荐了软件设计方面的学习资料，如《领域驱动设计》、《UNIX 编程艺术》和《Clean Architecture》等必读好书，以及如何构建 SaaS，如何避免过度设计，如何设计 API，如何用程序打日志等方面的资料。
 
-## Linux系统、内存和网络
+## [Linux 系统、内存和网络](#table-of-contents)
 
 这一篇章，是本文最长的一篇，其中包括了如下的内容。
 
@@ -693,7 +693,7 @@ C10K 问题本质上是操作系统处理大并发请求的问题。对于 Web �
 
 ### 小结
 
-## 分布式架构入门
+## [分布式架构入门](#table-of-contents)
 
 学习分布式系统跟学习其它技术非常不一样，分布式系统涵盖的面非常广，具体来说涵盖如下几方面：
 
@@ -797,7 +797,7 @@ C10K 问题本质上是操作系统处理大并发请求的问题。对于 Web �
 
 ### 小结
 
-## 容器化和自动化运维
+## [容器化和自动化运维](#table-of-contents)
 
 这篇文章重点学习 Docker 和 Kubernetes，它们已经是分布式架构和自动化运维的必需品了，也是你必需要学习的。对于这两个东西，你千万不要害怕，因为技术方面都不算复杂，只是它们的玩法和传统运维不一样，所以你不用担心，只要你花上一点时间，一定会学好的。
 
@@ -819,11 +819,11 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 
 ### 小结
 
-## 机器学习和人工智能
+## [机器学习和人工智能](#table-of-contents)
 
 我之前写过一篇机器学习的入门文章，因为我也是在入门和在学习的人，所以，那篇文章和这篇机器学习和人工智能方向的文章可能都会有点太肤浅。如果你有更好的学习方式或资料，欢迎补充。
 
-### 基本原理简介
+### [基本原理简介](#table-of-contents)
 
 我们先来介绍一下机器学习的基本原理。
 
@@ -855,7 +855,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 - [Data Science Simplified Part 10: An Introduction to Classification Models](https://towardsdatascience.com/data-science-simplified-part-10-an-introduction-to-classification-models-82490f6c171f)
 - [Data Science Simplified Part 11: Logistic Regression](https://towardsdatascience.com/data-science-simplified-part-11-logistic-regression-5ae8d994bf0e)
 
-### 相关课程
+### [相关课程](#table-of-contents)
 
 接下来，我们需要比较专业地学习一下机器学习了。
 
@@ -880,7 +880,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 
 更多的列表，请参看——[Awesome Machine Learning Courses](https://github.com/RatulGhosh/awesome-machine-learning)。
 
-### 相关图书
+### [相关图书](#table-of-contents)
 
 - 《[Pattern Recognition and Machine Learning](https://book.douban.com/subject/2061116/)》，这本书是机器学习领域的圣经之作。该书也是众多高校机器学习研究生课程的教科书，Google 上有[PDF 版的下载](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop - Pattern Recognition And Machine Learning - Springer  2006.pdf)。这本书很经典，但并不适合入门来看。GitHub 上有这本中的 [Matlab 实现](https://github.com/PRML/PRMLT)。
 
@@ -899,7 +899,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 
 - 《[Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://book.douban.com/subject/26840215/) 》，这是一门以 TensorFlow 为工具的入门书，其用丰富的例子从实站的角度来让你学习。这本书对于无基础的人也是适合的，对于小白来说虽然略难但是受益匪浅。
 
-### 相关文章
+### [相关文章](#table-of-contents)
 
 除了上述的那些课程和图书外，下面这些文章也很不错。
 
@@ -923,7 +923,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) ，用了好多图来说明了 RNN 的 attention 机制。
 - [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html) ，一个在 Spotify 的实习生分享的音乐聚类的文章。
 
-### 相关算法
+### [相关算法](#table-of-contents)
 
 下面是 10 个非常经典的机器学习的算法。
 
@@ -952,7 +952,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 - [3. Model selection and evaluation](http://scikit-learn.org/stable/model_selection.html#model-selection)
 - [4.3. Preprocessing data](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing)
 
-### 相关资源
+### [相关资源](#table-of-contents)
 
 - 对于初学者来说，动手是非常非常重要的，不然，你会在理论的知识里迷失掉自己，这里有篇文章 "[8 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)"，其中为初学者准备了 8 个很有趣的项目，你可以跟着练练。
 - 学习机器学习或是人工智能你需要数据，这里有一个非常足的列表给你足够多的公共数据 – 《[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)》，其中包括农业、生物、天气、计算机网络、地球科学、经济、教育、金融、能源、政府、健康、自然语言、体育等。
@@ -961,7 +961,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
   - [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
   - [Awesome Deep learning papers and other resources](https://github.com/endymecy/awesome-deeplearning-resources)
 
-### 小结
+### [小结](#table-of-contents)
 
 总结一下今天的内容。我首先介绍了机器学习的基本原理：监督式学习和非监督式学习，然后给出了全世界最简单的入门资料 [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)。随后给出了与机器学习密切相关的数据分析方面的内容和资料，然后推荐了深入学习机器学习知识的在线课程、图书和文章等，尤其列举了神经网络方面的学习资料。最后描述了机器学习的十大经典算法及相关的学习资料。
 
@@ -1013,9 +1013,9 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 
 ### 小结
 
-## 技术资源集散地
+## [技术资源集散地](#table-of-contents)
 
-### 个人技术博客
+### [个人技术博客](#table-of-contents)
 
 首先，我先推荐一些不错的个人技术博客。
 
@@ -1043,7 +1043,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 
 我已经感觉到，未来高质量的文章都会在 Medium 这个平台上出现，因为有一些公司的技术博客也在这个平台上发布了，比如 Netflix 的。所以，你有必要上到这个平台上 follow 一些作者、专栏和主题。
 
-### YouTube 技术频道
+### [YouTube 技术频道](#table-of-contents)
 
 下面是我订阅的一些我认为还不错的和编程相关的频道，推荐给你。
 
@@ -1071,7 +1071,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
   - [RSA Conference](https://www.youtube.com/user/RSAConference) ，RSA Conference。
   - [Black Hat](https://www.youtube.com/user/BlackHatOfficialYT) - Black Hat Conference。
 
-### 各大公司技术博客
+### [各大公司技术博客](#table-of-contents)
 
 细心的你一定会发现这份攻略中的很多推荐文章都来自于各个公司的技术团队的博客。是的，跟随这些公司的博客，你不但可以看到这些公司的工程技术，还能掌握到一些技术方向和趋势。
 
@@ -1112,11 +1112,11 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 - [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
 - [Smarkets Blog](https://smarketshq.com/)
 
-### 论文
+### [论文](#table-of-contents)
 
 要想将技术研究得精深，论文是必不可少的。那要如何读论文呢？
 
-#### 如何读论文
+#### [如何读论文](#table-of-contents)
 
 下面有几篇文章，教你一些读论文的方法，非常不错。
 
@@ -1126,7 +1126,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 - [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 - [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)
 
-#### 论文集散地
+#### [论文集散地](#table-of-contents)
 
 要成长为一个高手，论文是你一定要读的。下面是一些非常不错的计算机方面的论文集散地。
 
@@ -1162,7 +1162,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love) ，GitHub 上的一个近 3 万颗星的计算机科学方面的论文社区。
 
-### 小结
+### [小结](#table-of-contents)
 
 总结一下今天的内容。这篇文章我主要跟你分享了一些好的学习资源，帮你开拓眼界，为后续学习夯实基础。
 
@@ -1172,9 +1172,9 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 
 我一直认为，学习需要自我驱动，要学会自己“找食物”，而不是“等着喂”。程序员练级攻略 2018 版到今天就全部更新完成了，但我认为，这其实只是技术练级的起点，还有很多知识和技术，需要我们不断地去探索和发现。加油，我能做到的，你一定也可以做到。
 
-## 面试前的准备
+## [面试前的准备](#table-of-contents)
 
-### 怎样写简历
+### [怎样写简历](#table-of-contents)
 
 当然，**我们知道真正的好简历是要用自己的经历去写的**，比如，有人的简历就是一句话：我发明了 Unix。
 
@@ -1206,7 +1206,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 
 比如 " 工作态度积极，不分份内和份外的事，只要对公司和个人有利，都会努力做好；勤奋踏实，热爱学习，喜欢做一个全栈工程师；善于发现问题，并解决问题……" 表示我虽然现在的经历和技能不足以打动你，但是我的态度端正，潜力巨大，你不能错过……
 
-### 技术知识准备
+### [技术知识准备](#table-of-contents)
 
 一般来说，你的简历上写什么，面试官就会问什么，所以，不要打自己的脸，精通就是精通，熟悉就是熟悉，了解就是了解。然后对于你列出来的这些技术，你一定要把其最基本的技术细节给掌握了。面试官一般也会逐步加大问题的难度和深度，看看你到底在哪个层次上。所以，你还是需要系统地看看书，才能应对面试官的问题。比如：
 
@@ -1219,7 +1219,7 @@ Kubernetes 发展非常迅速，已经成为容器编排领域的领导者。
 
 总之，无论你在简历里写什么技术，这些技术的基础知识你都得学一下。本质上来说，这跟考试一样啊。你想想你是怎样准备期末考试的，是不是得把教科书上所有章节中的关键知识点都过一下？你不见得要记住所有的知识点，但是 80% 以上的关键知识点，你多少得知道吧。
 
-### 算法题准备
+### [算法题准备](#table-of-contents)
 
 国外的公司一般还会面算法题，他们用算法题来过滤掉那些非计算机专业出身的人。国内的一些公司也一样，尤其是一些校招面试，也有很多算法题。所以，算法是很重要的，是你需要努力学习和准备的。
 
@@ -1235,7 +1235,7 @@ LeetCode 是一个不错的地方。如果你能完成其中 50% 的题，那么
 
 基本上来说，算法题主要是考察应聘者是否是计算机专业出身的，对于基本的数据结构和算法有没有相应的认识。你做得多了，就是能感觉得到其中的套路和方法的。所以，本质来说，还是要多练多做。
 
-### 工作项目准备
+### [工作项目准备](#table-of-contents)
 
 无论什么公司的面试，都会让你说一个你做过的项目，或是你过去解决过的一个难题。但我很好奇
 怪，这种必问的题，为什么很多应聘者都没有好好准备一下。
@@ -1260,9 +1260,9 @@ LeetCode 是一个不错的地方。如果你能完成其中 50% 的题，那么
 
 对此，如果你想有一个比较好的面试回答效果，这不是你能临时准备出来的，工夫都是花在平时的。而训练这方面能力的最好方式就是在工作中写文档 ，在工作之余写博客。只有写得多了，写得好了，你这样的能力才能训练出来。
 
-## 面试中的技巧
+## [面试中的技巧](#table-of-contents)
 
-### 形象和谈吐
+### [形象和谈吐](#table-of-contents)
 
 每个人都喜欢和开朗风趣积极向上的人相处。经常微笑，表现出自己的热情，适当开开玩笑，自嘲一下，会让人觉得你很容易亲近。交谈时千万不要像挤牙膏一样，别人问你一句，你答一句，要把完整的前因后果讲完。别人问你个事，你就多分享一些这个事中的酸甜苦辣，把故事讲得生动有趣点儿，能逗笑 HR 妹子最好（但不要撩）。
 
@@ -1270,7 +1270,7 @@ LeetCode 是一个不错的地方。如果你能完成其中 50% 的题，那么
 
 面试官问的问题，你要给出充足的细节，千万不要让面试官不断地追问，那样就被动了。你问我解决过的最难的问题是什么，我就把这个问题的来龙去脉和其中的各种细节给你滔滔不绝地讲个遍。当然，也要讲得清楚干净有条理，不要东拉西扯的，也不要云山雾罩的。这些表达和谈吐还是要多练！
 
-### 答不出来
+### [答不出来](#table-of-contents)
 
 很多时候，面试官并不期待你能在很短的时候内解出一道难题，他只是想看一下你遇到难题时的态度和思维方式。如果你能证明给面试官看，你解决问题的方向和方法是正确的，就算是没有找到答案，也是很不错的。因为只要方向走对了，剩下的就是时间问题了。
 
@@ -1278,7 +1278,7 @@ LeetCode 是一个不错的地方。如果你能完成其中 50% 的题，那么
 
 另外，对于没有答上来的问题，有的人会在面试后请教一下面试官。但是我觉得更好的方式是，问面试官要个他的邮箱或微信，回去后，努力搞懂，举一反三，然后写个东西再发回去。这样做是有可能让你起死回生的哦。多少可以暗示对方：“你看，我有不懂的，但是我能下工夫很快就搞懂了，你看我的学习能力还不错哦。你就不再考虑一下了吗？”
 
-### 尖锐问题
+### [尖锐问题](#table-of-contents)
 
 应聘的时候，你有可能会被问到几个尖锐的问题，这时你要小心做答。一般来说，你会遇到这几个常见的比较尖锐的问题。
 
@@ -1292,7 +1292,7 @@ LeetCode 是一个不错的地方。如果你能完成其中 50% 的题，那么
 
   回答这个问题的时候，一般都会反衬出你的价值观，HR 就是想了解你的价值观。比如，我比较踏实，我想把技术一直做到老。再比如，我有韧性，我受过哪些挫折、失败、不公、无奈和无助，我没有当逃兵……
 
-### 结尾问题
+### [结尾问题](#table-of-contents)
 
 一般来说，面试结束的时候，都会问你有没有什么问题。不要放弃这个机会。
 
@@ -1307,7 +1307,7 @@ LeetCode 是一个不错的地方。如果你能完成其中 50% 的题，那么
 
 - **如果你面得很不行，基本挂掉了**。这个时候，也要问问题。但最好问一下面试官对你的评价，并且让他指出你的不足和需要改进的地方。面试本来就是一次经历和一次学习，你也可以把其当作是一种受教育的过程。所以，不要放过自己可以成长的机会。通过面试官给你的评价，你日后就知道自己需要努力的地方和方向了。这是多好的一件事儿啊。
 
-## 面试风格
+## [面试风格](#table-of-contents)
 
 回答完这些知识性的问题，就是项目经历描述了。你可以随便讲你做过的项目，把这个项目用到的一些技术架构都说清楚就好了，还有怎么上线的，怎么运维的，怎么加班的，怎么苦逼的，怎么带人的，怎么管理项目的。面试官也很少追问技术细节，因为可能面试官自己都不懂（哈哈）。
 
@@ -1324,9 +1324,9 @@ LeetCode 是一个不错的地方。如果你能完成其中 50% 的题，那么
 
 总体来说，与国外公司相比，国内的公司不管是哪个层级上的面试都是比较好通过的。
 
-## 实力才是王中王
+## [实力才是王中王](#table-of-contents)
 
-### 程序员练级攻略
+### [程序员练级攻略](#table-of-contents)
 
 对于后端程序员来说，C、C++ 和 Java 是一定要学好的，TCP 网络和 Linux 系统编程也是需要学好的。《练级攻略》中那些资料如果你能全部吃透和掌握的话（也就是“编程语言”和“系统知识”这两个章节），那么，中国的所有公司你都可以进，包括 BAT，职位可以面到一级的高级工程师。年薪至少 30 万左右。
 
@@ -1340,7 +1340,7 @@ LeetCode 是一个不错的地方。如果你能完成其中 50% 的题，那么
 
 另外，如果你今天还在做支持性的工作，那么你要赶快转到产出性的工作上去，不然的话，你未来也危险了。比如像：测试、运维、项目管理等，这些都是支持性的工作。我个人建议你转到开发工作上，比如开发测试工具，开发运维系统和工具，开发项目管理软件……只有到了开发上，你才会有更好的发展空间。
 
-### 面试的训练
+### [面试的训练](#table-of-contents)
 
 对面试来说，比较好的训练就是要经常出去面试，所以还是应该隔三岔五就出去面试一下的。一方面可以攒攒经验值，可以训练一下自己的语言表达能力和应对各种问题的回答。另一方面更重要，可以了解一下目前市场的需求（技术、技能和业务），同时了解一下自己的身价。
 
@@ -1348,7 +1348,7 @@ LeetCode 是一个不错的地方。如果你能完成其中 50% 的题，那么
 
 另外，对于语言组织的训练，除了多多与人交流，还有就是你平时需要多看多写，喜欢看书和写作的人通常在语言表达能力方面也不会差，而反之则通常会比较差。所以，写 blog，表达自己的想法是很重要的。
 
-### 跳槽和升职
+### [跳槽和升职](#table-of-contents)
 
 有人说，跳槽是升职加薪最好的手段，这么说也有一定道理，因为只有用人单位在竞争你，你的职位和薪资才能提得上去。如果你想靠公司的良心，这是比较难的，除非你非常非常出色。很多人都是会以跳槽来作为升职或加薪的手段的。
 
@@ -1360,7 +1360,7 @@ LeetCode 是一个不错的地方。如果你能完成其中 50% 的题，那么
 
 总之，如果你决定在职场大展宏图的话，那么在年轻的时候，让自己的简历变得越漂亮越好。最好是先去国外，然后在需要职业成长的时候，被国内公司重金请回来，会比直接在国内的公司里发展要好一些。这是我个人觉得比较好的方式。
 
-### 最重要的事
+### [最重要的事](#table-of-contents)
 
 程序员面试中，最重要的事还是自己技术方面的能力，国内会注重你的项目经验，国外会注重你的基础知识、项目经验、解题思路，以及软件设计能力。所以，要努力提高自己的这些技术技能和见解。
 
