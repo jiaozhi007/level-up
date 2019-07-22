@@ -3,7 +3,7 @@ presented by Zuo Er Ting Feng from time.geekbang
 
 # 程序员练级攻略
 
-[TOC]
+[toc]
 
 ## 正式入门
 
