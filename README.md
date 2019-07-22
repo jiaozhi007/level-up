@@ -1,9 +1,9 @@
 # level-up
-presented by Zuo Er Ting Feng from time.geekbang
+presented by Zuo Er Ting Feng from time.geekbang.org
 
 # 程序员练级攻略
 
-[toc]
+[TOC]
 
 ## 正式入门
 
@@ -114,7 +114,7 @@ presented by Zuo Er Ting Feng from time.geekbang
 - 可以让你的代码很规整，这有利于代码易读性，从而可以更容易地维护。
 
 - 提升开发效率，我们知道，效率来自于结构化，而不是杂乱。
-    
+  
 - 可以让你的软件避免一些容易掉坑的陷阱，也让 Bug 更少，质量更高。
 
 - 可以让团队成员更高效率地协作。
